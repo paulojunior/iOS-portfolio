@@ -25,6 +25,21 @@ A Kids APP that plays animal sounds.
 </p>
 
 
+## Snapchat Clone
+
+A snapchat clone, where pictures are usually only available for a short time before they become inaccessible to their recipients.
+
+### Technologies ###
+* Swift(4-5)
+* Firebase
+* Photos
+* Push Notifications
+
+<p align="center">
+<img src="images/snapchat.png" width="230"  title="Screen">
+</p>
+
+
 ## My location
 
 Displays user location information.
@@ -35,18 +50,6 @@ Displays user location information.
 
 <p align="center">
 <img src="images/mylocation.png" width="230"  title="Screen">
-</p>
-
-
-## Snapchat Clone
-
-A snapchat clone, where pictures are usually only available for a short time before they become inaccessible to their recipients.
-
-### Technologies ###
-* Swift(4-5)
-
-<p align="center">
-<img src="images/snapchat.png" width="230"  title="Screen">
 </p>
 
 
