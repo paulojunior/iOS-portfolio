@@ -12,6 +12,19 @@ A quick and easy way to check the bitcoin price in Brazilian real. This app only
 </p>
 
 
+## Animal Sounds
+
+A Kids APP that plays animal sounds.
+
+### Technologies ###
+* Swift(4-5)
+* AVFoundation
+
+<p align="center">
+<img src="images/animalsouds.png" width="230"  title="Screen">
+</p>
+
+
 
 
 
