@@ -21,7 +21,7 @@ A Kids APP that plays animal sounds.
 * AVFoundation
 
 <p align="center">
-<img src="images/animalsouds.png" width="230"  title="Screen">
+<img src="images/animalsoud.png" width="230"  title="Screen">
 </p>
 
 
