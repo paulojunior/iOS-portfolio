@@ -58,7 +58,7 @@ Displays user location information.
 
 ### Technologies ###
 * Swift(4-5)
-* Core Location Framework
+* Core Location
 
 <p align="center">
 <img src="images/mylocation.png" width="230"  title="Screen">
