@@ -2,6 +2,16 @@
 
 # IOS-Portfolio
 
+## HCor
+
+Institutional APP (for ipad) developed for the heart hospital of São Paulo/BR.
+
+<p align="center">
+<img src="images/hcor1.png" width="230"  title="Screen">
+<img src="images/hcor2.png" width="230"  title="Screen">
+<img src="images/hcor3.png" width="230"  title="Screen">
+</p>
+
 ## Bitcoin Price
 
 A quick and easy way to check the bitcoin price in Brazilian real. This app only consumes a [blockchain](https://www.blockchain.com/api) API to query the bitcoin price in real time.
