@@ -52,13 +52,28 @@ A snapchat clone, where pictures are usually only available for a short time bef
 </p>
 
 
+## My Travels
+
+Mark the tourist attractions you want to visit.
+
+### Technologies ###
+* Swift(4-5)
+* Core Location
+
+<p align="center">
+<img src="images/mytravel1.png" width="230"  title="Screen">
+<img src="images/mytravel2.png" width="230"  title="Screen">
+<img src="images/mytravel3.png" width="230"  title="Screen">
+</p>
+
+
 ## My location
 
 Displays user location information.
 
 ### Technologies ###
 * Swift(4-5)
-* Core Location Framework
+* Core Location
 
 <p align="center">
 <img src="images/mylocation.png" width="230"  title="Screen">
