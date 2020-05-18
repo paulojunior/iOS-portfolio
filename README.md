@@ -59,6 +59,7 @@ Mark the tourist attractions you want to visit.
 ### Technologies ###
 * Swift(4-5)
 * Core Location
+* UserDefaults
 
 <p align="center">
 <img src="images/mytravel1.png" width="230"  title="Screen">
